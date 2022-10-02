@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: white;
+}
+
+#tituloListaProductos {
+    color: #0ba798;
+}
+#productos{
+    text-align: justify;
+    line-height: 1;
+    letter-spacing: 1.3px;
+    font-weight: normal;
+    font-size: 15px;
+    padding-top: 6em;
+}
+
